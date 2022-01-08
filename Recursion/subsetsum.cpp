@@ -23,7 +23,7 @@ int check(vector<int> v,int n, int i, int s)
     int main()
     {
         vector<int>v = {2,3,6,7};
-        int s = 7;
+        int s = 9;
         cout<<check(v,v.size(),0,s);
         
     }

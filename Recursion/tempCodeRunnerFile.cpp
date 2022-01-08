@@ -1,4 +1,1 @@
-for(auto i:ans)
-    // {
-    //     cout<<i<<" ";
-    // }
+2
