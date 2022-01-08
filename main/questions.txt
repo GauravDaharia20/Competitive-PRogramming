@@ -4,3 +4,5 @@ https://leetcode.com/problems/pour-water/
 https://leetcode.com/problems/trapping-rain-water-ii/
 https://leetcode.com/problems/sort-characters-by-frequency/
 https://leetcode.com/tag/binary-search/
+https://leetcode.com/problems/minimum-sideway-jumps/
+https://leetcode.com/problems/frog-jump/
