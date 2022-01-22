@@ -1,17 +1,17 @@
 #include<bits/stdc++.h>
 using namespace std;
-bool check(vector<int> &arr)
-{
-    bool f = true;
-    for(auto i:arr)
-    {
-       if(i<0)
-       {
-           f = true;
-       }
-    }
-    return f;
-}
+// bool check(vector<int> &arr)
+// {
+//     bool f = true;
+//     for(auto i:arr)
+//     {
+//        if(i<0)
+//        {
+//            f = true;
+//        }
+//     }
+//     return f;
+// }
 int main()
 {
     vector<int>arr = {-1,-2,-3};

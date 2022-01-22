@@ -1,5 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
+/*
+    look max to left , look max to right, then subtract the height of currrent bar to get height of water
+    trap
+    then the height would be min(l,r)-v[i]
+*/
 int main()
 {
     vector<int>v={0,1,0,2,1,0,1,3,2,1,2,1};
