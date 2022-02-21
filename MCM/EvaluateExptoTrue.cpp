@@ -73,6 +73,6 @@ int EvalExp(string exp, int i, int j, bool flg)
 }
 int main()
 {
-    string exp = "T^F&T";
-    cout << EvalExp(exp, 0, exp.size() - 1, false);
+    string exp = "T^F|F&T";
+    cout << EvalExp(exp, 0, exp.size() - 1, true);
 }

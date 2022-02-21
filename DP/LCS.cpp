@@ -24,13 +24,13 @@ int LCS(string s1 , string s2, int n, int m, vector<vector<int>>&dp)
 }
 int main()
 {
-    string s1 = "gaurav";
-    string s2 = "daharia";
+    string s1 = "bbbabcbbb";
+    string s2 = "bbbcbabbb";
     //ara
     int n = s1.size(); int m = s2.size();
     vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
 
-    cout<<LCS(s1,s2,s1.size(),s2.size(),dp);
+    //cout<<LCS(s1,s2,s1.size(),s2.size(),dp);
 
     int dps[n+1][m+1];
 
