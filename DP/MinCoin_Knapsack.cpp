@@ -1,6 +1,7 @@
 /*
 Problem Statement
-You are given an array of ‘N’ distinct integers and an integer ‘X’ representing the target sum. You have to tell the minimum number of elements you have to take to reach the target sum ‘X’.
+You are given an array of ‘N’ distinct integers and an integer ‘X’ representing the target sum. 
+You have to tell the minimum number of elements you have to take to reach the target sum ‘X’.
 Note:
 You have an infinite number of elements of each type.
 For Example
